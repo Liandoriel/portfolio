@@ -76,7 +76,7 @@ export const projectsData = [
     img: 'project_6.jpg',
     title: 'Avionics Software Engineer Intern at Thales Avionics',
     info: 'Automatic generation of PDF documentation in Python via parsing of Ada code and using Miktek in Latex format.',
-    info2: 'Developed code analysis program in C++ per the Enterprise development standards, Continued development (Ada / Java) on a project started by a previous employee for the A400M, Work by using the Agile method (Scrum)',
+    info2: 'Developed code analysis program in C++ per the Enterprise development standards, Continued development (Ada / Java) on a project started by a previous employee for the A400M, Work by using the Agile method (Scrum).',
     url: 'https://onboard.thalesgroup.com/a400m-bringing-together-the-best-of-civil-and-military-functions/',
     repo: '', // if no repo, the button will not show up
   },
